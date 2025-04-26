@@ -66,7 +66,7 @@ Para executar os códigos localmente, você precisará de:
 1. Clone o repositório [Aulas Java](https://github.com/Brunogodoy2911/Java_Generation_Brasil) dentro da pasta do *Workspace* do Eclipse/STS
 
 ```bash
-git clone https://github.com/rafaelq80/aulas_java_t82.git
+git clone https://github.com/Brunogodoy2911/Java_Generation_Brasil.git
 ```
 
 2. **Abra o Eclipse/STS** e selecione a pasta do *Workspace* onde você clonou o repositório
