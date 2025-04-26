@@ -42,7 +42,7 @@ Você encontrará conteúdos que abrangem desde os fundamentos da linguagem Java
 | Aula 03 | Condicionais e Lógicos | [Abrir](https://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_03/src) | `if/else`, `switch`, operadores relacionais e lógicos |
 | Aula 04 | Laços de Repetição     | [Abrir](https://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_04/src/aula_04) | Estruturas `for`, `while` e `do-while`                |
 | Aula 05 | Arrays                 | [Abrir](https://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_05/src) | Vetores e matrizes                                    |
-| Aula 06 | Collections (Parte 1)  | [Abrir](hhttps://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_06/src) | Trabalhando com `ArrayList` e `Set`                   |
+| Aula 06 | Collections (Parte 1)  | [Abrir](https://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_06/src) | Trabalhando com `ArrayList` e `Set`                   |
 | Aula 07 | Collections (Parte 2)  | [Abrir](https://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_07/src) | Uso de `Queue` e `Stack`                              |
 | Aula 08 | Métodos                | [Abrir](https://github.com/Brunogodoy2911/Java_Generation_Brasil/tree/main/aula_08/src/aula_08) | Criação de métodos com e sem retorno                  |
 
